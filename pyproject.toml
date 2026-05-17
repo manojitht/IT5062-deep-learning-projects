@@ -1,0 +1,14 @@
+[project]
+name = "it5062-deep-learning-projects"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "keras>=3.14.1",
+    "matplotlib>=3.10.9",
+    "numpy>=2.4.5",
+    "pandas>=3.0.3",
+    "scikit-learn>=1.8.0",
+]
